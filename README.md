@@ -1,5 +1,5 @@
 ## Olá! Sou o Lorenzo 👨‍💻
-Estudante de Análise e Desenvolvimento de Sistemas e **atuando como estagiário(a)**. Estou aplicando conceitos teóricos no dia a dia, Adoro aprender e estou sempre buscando absorver novos conhecimentos e metodologias para construir sistemas robustos e funcionais.
+Estudante de Análise e Desenvolvimento de Sistemas e **atuando como estagiário**. Estou aplicando conceitos teóricos no dia a dia, Adoro aprender e estou sempre buscando absorver novos conhecimentos e metodologias para construir sistemas robustos e funcionais.
 
 <h2 align = "left"> 📊 Estatísticas </h2>
 
