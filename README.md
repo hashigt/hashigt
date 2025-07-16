@@ -1,5 +1,5 @@
 ## Olá! Sou o Lorenzo 👨‍💻
-Estudante de Análise e Desenvolvimento de Sistemas e **estagiário**.  empolgado para aplicar e expandir meus conhecimentos na prática, Adoro aprender e estou sempre buscando absorver novos conhecimentos e metodologias para construir sistemas robustos e funcionais.
+Estudante de Análise e Desenvolvimento de Sistemas e **estagiário**. Empolgado para aplicar e expandir meus conhecimentos na prática, adoro aprender e estou sempre buscando absorver novos conhecimentos e metodologias para construir sistemas robustos e funcionais.
 
 <h2 align = "left"> 📊 Estatísticas </h2>
 
@@ -13,13 +13,9 @@ Estudante de Análise e Desenvolvimento de Sistemas e **estagiário**.  empolgad
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lorenzo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
   <img align="center" alt="Lorenzo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lorenzo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lorenzo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  
+  <img align="center" alt="Lorenzo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Lorenzo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
 </div>
-  
-###
-
