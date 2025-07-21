@@ -1,21 +1,53 @@
-## Olá! Sou o Lorenzo 👨‍💻
-Estudante de Análise e Desenvolvimento de Sistemas e **estagiário**. Empolgado para aplicar e expandir meus conhecimentos na prática, adoro aprender e estou sempre buscando absorver novos conhecimentos e metodologias para construir sistemas robustos e funcionais.
+<h1 align="center">👋 Olá! Eu sou o Lorenzo Trindade</h1>
 
-<h2 align = "left"> 📊 Estatísticas </h2>
+<p align="center">
+  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> <br>
+  💻 Estagiário de TI | Apaixonado por tecnologia, programação e aprendizado contínuo.
+</p>
 
-###
+---
 
-<div align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=hashigt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height = "150" alt = "stats graph" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=hashigt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height = "150" alt = "languages graph" />
-</div>
+## 🚀 Sobre mim
+
+Sou uma pessoa curiosa e dedicada, que acredita no poder da tecnologia para transformar ideias em soluções. Estou sempre buscando aprender novas linguagens, ferramentas e boas práticas de desenvolvimento.
+
+Atualmente, estou ampliando meus conhecimentos principalmente em **Desenvolvimento Web**, com foco em **JavaScript**, **React**, **PHP** e **C**.
+
+---
+
+## 🛠️ Tecnologias que utilizo
+
+<p align="center">
+  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript"/>
+  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React"/>
+  <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"/>
+  <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3"/>
+  <img alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP"/>
+  <img alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
+</p>
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lorenzo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lorenzo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lorenzo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lorenzo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lorenzo-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Lorenzo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-</div>
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hashigt&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashigt&layout=compact&theme=github_dark&langs_count=6" alt="Linguagens mais usadas"/>
+</p>
+
+---
+
+## 📫 Como me encontrar
+
+<p align="center">
+  <a href="https://linkedin.com/in/lorenzo-trindade-72a665256" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Obrigado por vi
