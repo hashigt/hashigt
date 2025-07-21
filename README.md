@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Lorenzo Trindade</h1>
+<h1 align="center">👋 Olá! Eu sou o Lorenzo</h1>
 
 <p align="center">
   🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> <br>
