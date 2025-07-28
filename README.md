@@ -5,7 +5,6 @@
   💻 Estagiário de TI | Apaixonado por tecnologia, programação e aprendizado contínuo.
 </p>
 
----
 
 ## 🚀 Sobre mim
 
@@ -13,7 +12,6 @@ Sou uma pessoa curiosa e dedicada, que acredita no poder da tecnologia para tran
 
 Atualmente, estou ampliando meus conhecimentos principalmente em **Desenvolvimento Web**, com foco em **JavaScript**, **React**, **PHP** e **C**.
 
----
 
 ## 🛠️ Tecnologias que utilizo
 
@@ -28,7 +26,6 @@ Atualmente, estou ampliando meus conhecimentos principalmente em **Desenvolvimen
 </p>
 
 
----
 
 ## 📈 Estatísticas do GitHub
 
@@ -38,7 +35,6 @@ Atualmente, estou ampliando meus conhecimentos principalmente em **Desenvolvimen
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashigt&layout=compact&theme=github_dark&langs_count=6" alt="Linguagens mais usadas"/>
 </p>
 
----
 
 ## 📫 Como me encontrar
 
