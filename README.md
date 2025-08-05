@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Sou uma pessoa curiosa e dedicada, que acredita no poder da tecnologia para transformar ideias em soluções. Estou sempre buscando aprender novas linguagens, ferramentas e boas práticas de desenvolvimento.
+Estou cursando na faculdade Faeterj-rio e estou no 2° período sou uma pessoa curiosa e dedicada, que acredita no poder da tecnologia para transformar ideias em soluções. Estou sempre buscando aprender novas linguagens, ferramentas e boas práticas de desenvolvimento.
 
 Atualmente, estou ampliando meus conhecimentos principalmente em **Desenvolvimento Web**, com foco em **JavaScript**, **React**, **PHP** e **C**.
 
