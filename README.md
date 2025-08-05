@@ -15,16 +15,19 @@ Atualmente, estou ampliando meus conhecimentos principalmente em **Desenvolvimen
 
 ## 🛠️ Tecnologias que utilizo
 
-<p align="center">
-  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript"/>
-  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React"/>
-  <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"/>
-  <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3"/>
-  <img alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP"/>
+<div align="center">
   <img src = "https://skillicons.dev/icons?i=c" height = "40" alt = "c logo" />
-  <img width = "10" />
-</p>
-
+  <img width = "12" />
+  <img src = "https://skillicons.dev/icons?i=react" height = "40" alt = "react logo" />
+  <img width = "12" />
+  <img src = "https://skillicons.dev/icons?i=php" height = "40" alt = "php logo" />
+  <img width = "12" />
+  <img src = "https://skillicons.dev/icons?i=html" height = "40" alt = "html5 logo" />
+  <img width = "12" />
+  <img src = "https://skillicons.dev/icons?i=css" height = "40" alt = "css3 logo" />
+  <img width = "12" />
+  <img src = "https://skillicons.dev/icons?i=js" height = "40" alt = "javascript logo" />
+</div>
 
 
 ## 📈 Estatísticas do GitHub
