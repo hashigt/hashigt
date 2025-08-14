@@ -49,4 +49,4 @@ Estou cursando na faculdade Faeterj-rio e estou no 2° período sou uma pessoa c
 ---
 
 <p align="center">
-  Obrigado por vi
+  Obrigado por vir
