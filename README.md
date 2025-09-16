@@ -5,12 +5,12 @@
   💻 Estagiário de TI | Apaixonado por tecnologia, programação e aprendizado contínuo.
 </p>
 
-
 ## 🚀 Sobre mim
+<div align="center">
+Sou estudante do 2º período de Análise e Desenvolvimento de Sistemas na Faeterj-Rio. Tenho paixão por tecnologia, programação e pelo aprendizado contínuo. Gosto de transformar ideias em soluções digitais, Busco sempre evoluir minhas habilidades técnicas.
 
-Estou cursando na faculdade Faeterj-rio e estou no 2° período sou uma pessoa curiosa e dedicada, que acredita no poder da tecnologia para transformar ideias em soluções. Estou sempre buscando aprender novas linguagens, ferramentas e boas práticas de desenvolvimento.
-
-
+Estou aberto para conectar, trocar conhecimento e contribuir em projetos inovadores!
+</div>
 
 ## 🛠️ Tecnologias que utilizo
 
@@ -28,7 +28,6 @@ Estou cursando na faculdade Faeterj-rio e estou no 2° período sou uma pessoa c
   <img src = "https://skillicons.dev/icons?i=js" height = "40" alt = "javascript logo" />
 </div>
 
-
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
@@ -36,7 +35,6 @@ Estou cursando na faculdade Faeterj-rio e estou no 2° período sou uma pessoa c
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashigt&layout=compact&theme=github_dark&langs_count=6" alt="Linguagens mais usadas"/>
 </p>
-
 
 ## 📫 Como me encontrar
 
@@ -49,4 +47,5 @@ Estou cursando na faculdade Faeterj-rio e estou no 2° período sou uma pessoa c
 ---
 
 <p align="center">
-  Obrigado por vir
+  Obrigado por vir!
+</p>
