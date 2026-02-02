@@ -18,7 +18,6 @@ Estou sempre aberto para conectar, trocar conhecimentos e contribuir em projetos
 ## 🎯 No que estou trabalhando
 - 💻 Desenvolvendo projetos Full Stack (React + PHP).
 - 🧠 Praticando algoritmos e lógica de programação.
-- 📖 Lendo a série "Duna" (nas horas vagas!).
 
 ## 📈 Estatísticas do GitHub
 <p align="center">
