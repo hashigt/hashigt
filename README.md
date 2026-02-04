@@ -21,9 +21,9 @@ Estou sempre aberto para conectar, trocar conhecimentos e contribuir em projetos
 
 ## 📈 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashigt&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats-one.vercel.app/api?username=hashigt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashigt&layout=compact&theme=github_dark&langs_count=6" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=hashigt&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
 </p>
 
 ## 📫 Como me encontrar
