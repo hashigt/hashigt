@@ -16,7 +16,7 @@ Estou sempre aberto para conectar, trocar conhecimentos e contribuir em projetos
 </p>
 
 ## 🎯 No que estou trabalhando
-- 💻 Desenvolvendo projetos Full Stack (React + PHP).
+- 💻 Desenvolvendo projetos (JavaScript - ReactJs).
 - 🧠 Praticando algoritmos e lógica de programação.
 
 ## 📈 Estatísticas do GitHub
