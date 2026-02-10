@@ -6,7 +6,7 @@
 </p>
 
 ## 🚀 Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas e estagiário de TI. Tenho paixão por tecnologia e pelo aprendizado contínuo, buscando sempre transformar ideias em soluções digitais eficientes. Atualmente foco em fortalecer minha base em lógica com **JavaScript** e construir aplicações web modernas com **React** e **PHP**.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estagiário de TI. Tenho paixão por tecnologia e pelo aprendizado contínuo, buscando sempre transformar ideias em soluções digitais eficientes. Atualmente foco em fortalecer minha base em lógica com **JavaScript** e construir aplicações web modernas com **React**.
 
 Estou sempre aberto para conectar, trocar conhecimentos e contribuir em projetos inovadores!
 
